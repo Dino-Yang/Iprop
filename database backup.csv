@@ -1,0 +1,15 @@
+_id,developer,genre1,genre2,name_lower,rating,year
+ELDEN RING ,From Software,Souls-like,Action RPG,elden ring,96,2022
+Cyberpunk 2077,CD PROJEKT RED,Open World,RPG,cyberpunk 2077,86,2020
+Red Dead Redemption 2,Rockstar Games,Open World,Adventure,red dead redemption,97,2019
+Halo: Combat Evolved,Bungie Software,Action,FPS,halo: combat evolved,97,2001
+League of Legends,Riot Games,Moba,Online,league of legends,78,2009
+Valorant,Riot Games,FPS,Tactical,valorant,80,2019
+Counter-Strike: Global Offensive,Valve Software,FPS,Tactical,counter-strike: global offensive,83,2012
+Grand Theft Auto V,Rockstar Games,Open World,Action,grand theft auto v,97,2014
+Halo 3,Bungie Software,Action,FPS,halo 3,94,2007
+Sekiro: Shadows Die Twice,From Software,Souls-like,Action RPG,sekiro,88,2019
+Dota 2,Valve Software,Moba,Online,dota 2,90,2013
+"Tom Clancy's Rainbow Six Siege",Ubisoft Montreal,FPS,Tactical,"tom clancy's: rainbow six siege",79,2015
+The Witcher 3: Wild Hunt,CD PROJEKT RED,Open World,RPG,the witcher 3: wild hunt,92,2015
+Halo 4,Bungie Software,Action,FPS,halo 4,87,2011
