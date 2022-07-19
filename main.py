@@ -280,9 +280,7 @@ def choice():
 
 
 # make connection to database
-# myclient = pymongo.MongoClient("mongodb://admin:blabla208@192.168.138.74")
-myclient = pymongo.MongoClient("mongodb+srv://user51:user51@indieman"
-                               ".bkil2.mongodb.net/indieman")
+# myclient = pymongo.MongoClient(connection url)
 mydb = myclient["INDIEPACMAN"]
 collection = mydb["games2"]
 
